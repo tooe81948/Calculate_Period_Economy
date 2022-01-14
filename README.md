@@ -16,7 +16,7 @@ pip install Calculate_Period_Economy
 ```
 - เปิด Python แล้วพิพม์ตามนี้เลย
 ```sh
-from Calculate import CalculatePeriodEconomy
+from Calculateperiod import CalculatePeriodEconomy
 
 CPE = CalculatePeriodEconomy()
 print(CPE.help())
