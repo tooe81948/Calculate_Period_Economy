@@ -1,0 +1,10 @@
+LICENSE.txt
+MANIFEST.in
+README.md
+setup.py
+CalculatePeriodEconomy.egg-info/PKG-INFO
+CalculatePeriodEconomy.egg-info/SOURCES.txt
+CalculatePeriodEconomy.egg-info/dependency_links.txt
+CalculatePeriodEconomy.egg-info/top_level.txt
+Calculateperiod/Calculate.py
+Calculateperiod/__init__.py

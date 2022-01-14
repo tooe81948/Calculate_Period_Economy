@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: CalculatePeriodEconomy
+Version: 0.0.1
+Summary: ทดองเขียนเพื่อให้ตัวเองใช้งาน [Write it for yourself to use.]
+Home-page: https://github.com/tooe81948/Calculate_Period_Economy
+Author: Suea_Ep_ET
+Author-email: tooe81948@gmail.com
+License: MIT
+Keywords: Calculate_Period_Economy,Economy Libary,Suea_Ep_ET
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+License-File: LICENSE.txt
+
+plese read in: https://github.com/tooe81948/Calculate_Period_Economy
+
