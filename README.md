@@ -14,6 +14,13 @@
 ```sh
 pip install Calculate_Period_Economy
 ```
+หรือเปิดหน้า cmd window
+
+```sh
+python setup.py install 
+```
+
+
 - เปิด Python แล้วพิพม์ตามนี้เลย
 ```sh
 from Calculateperiod import CalculatePeriodEconomy
